@@ -1,1 +1,7 @@
+plugins:
+  - jekyll-redirect-from
 theme: jekyll-theme-minimal
+title: nsfw.co.in podcasts
+description: Not safe for work content inside podcasts
+show_downloads: false
+google_analytics: G-C47ZGTTYCH
