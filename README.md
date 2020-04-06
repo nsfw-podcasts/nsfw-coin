@@ -1,6 +1,6 @@
 # NSFW podcasts
 
-[2. HardSoft Skills , DevOps interview, management RU vs EN](https://music.yandex.ru/album/10318378/)
+[2. HardSoft Skills , DevOps interview, management RU vs EN](https://music.yandex.ru/album/10318378/track/64443722)
 
 Свежайший подкаст!
 
