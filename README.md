@@ -26,5 +26,4 @@
 | date       | theme        |
 |------------|--------------|
 | [2020-03-31](episodes/01.md) | [1. Работаем дома в принудительном порядке](https://music.yandex.ru/album/10318378/track/64324269) |
-|--------------------------|
 | [2020-04-06](episodes/02.md) | [2. HardSoft Skills , DevOps interview, management RU vs EN](https://music.yandex.ru/album/10318378/) |
