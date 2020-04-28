@@ -28,3 +28,4 @@
 |------------|--------------|
 | [2020-03-31](episodes/01.md) | [1. Работаем дома в принудительном порядке](https://music.yandex.ru/album/10318378/track/64324269) |
 | [2020-04-06](episodes/02.md) | [2. HardSoft Skills , DevOps interview, management RU vs EN](https://music.yandex.ru/album/10318378/track/64443722) |
+| [2020-04-29](episodes/03.md) | 3. Ansible хорош выкинуть |
