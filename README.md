@@ -1,4 +1,14 @@
 # NSFW podcasts
+[3. Ansible good or not](https://music.yandex.ru/album/10318378/track/65562747)
+
+Свежая кровь!
+
+* Ansible - зачем он нам всем?
+* Можно ли его заменить и чем?
+* Как изменятся ваши плейбуки с новыми версиями ?
+* Как повлиять на сам проект ?
+
+Это всё, полезные ссылки на [странице выпуска](episodes/03.md)
 
 [2. HardSoft Skills , DevOps interview, management RU vs EN](https://music.yandex.ru/album/10318378/track/64443722)
 
