@@ -1,4 +1,5 @@
 # NSFW podcasts
+
 [3. Ansible хорош выкинуть](https://music.yandex.ru/album/10318378/track/65562747)
 
 Свежая кровь!
@@ -32,7 +33,7 @@
 
 Это всё, полезные ссылки на [странице выпуска](episodes/01.md)
 
-# History
+## History
 
 | date       | theme        |
 |------------|--------------|
